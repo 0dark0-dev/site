@@ -3,8 +3,7 @@
 Bu proje, [alanadınız.com](https://www.darkcyberteam.com) adlı kişisel web sayfamın temel yapısını oluşturuyor. Sayfa HTML, CSS ve basit JavaScript kullanarak tasarlanmıştır.
 
 ## 🎯 Hedef
-Web sayfamda, projelerim, hakkımda bilgiler ve iletişim formu gibi içerikleri sunmayı hedefliyorum. Sayfam, kullanıcı dostu ve mobil uyumlu bir tasarıma sahiptir.
-
+web sayfamız bizi tanıtmak amaçlı kurulmuştur
 ## 🚀 Kullanıcılar İçin
 Web sayfamı görüntülemek için:
 1. Tarayıcınızda [darkcyberteam.com](https://www.darkcyberteam.com) adresini ziyaret edin.
